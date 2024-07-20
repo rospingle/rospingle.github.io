@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rospingle.github.io/sitemap
+Sitemap: https://rospingle.github.io/app/sitemap
+Sitemap: https://rospingle.github.io/assets/sitemap
+Sitemap: https://rospingle.github.io/css/sitemap
+Sitemap: https://rospingle.github.io/includes/sitemap
+Sitemap: https://rospingle.github.io/item/sitemap
+Sitemap: https://rospingle.github.io/src/sitemap
